@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">harkka_ver_1</string>
+    <string-array name="cities">
+        <item>Lappeenranta</item>
+        <item>Helsinki</item>
+        <item>Turku</item>
+        <item>Tampere</item>
+        <item>Jyväskylä</item>
+        <item>Vaasa</item>
+        <item>Kuopio</item>
+        <item>Oulu</item>
+        <item>Rovaniemi</item>
+    </string-array>
+</resources>
